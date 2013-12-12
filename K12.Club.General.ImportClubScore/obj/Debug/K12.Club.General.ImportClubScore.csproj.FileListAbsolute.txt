@@ -1,0 +1,7 @@
+C:\Dropbox\00-Work\iSchool\MyProjects\[部分]匯入社團學期成績\SourceCode\K12.Club.General.ImportClubScore\K12.Club.General.ImportClubScore\bin\Debug\K12.Club.General.ImportClubScore.dll
+C:\Dropbox\00-Work\iSchool\MyProjects\[部分]匯入社團學期成績\SourceCode\K12.Club.General.ImportClubScore\K12.Club.General.ImportClubScore\bin\Debug\K12.Club.General.ImportClubScore.pdb
+C:\Dropbox\00-Work\iSchool\MyProjects\[部分]匯入社團學期成績\SourceCode\K12.Club.General.ImportClubScore\K12.Club.General.ImportClubScore\obj\Debug\K12.Club.General.ImportClubScore.csprojResolveAssemblyReference.cache
+C:\Dropbox\00-Work\iSchool\MyProjects\[部分]匯入社團學期成績\SourceCode\K12.Club.General.ImportClubScore\K12.Club.General.ImportClubScore\obj\Debug\K12.Club.General.ImportClubScore.Properties.Resources.resources
+C:\Dropbox\00-Work\iSchool\MyProjects\[部分]匯入社團學期成績\SourceCode\K12.Club.General.ImportClubScore\K12.Club.General.ImportClubScore\obj\Debug\K12.Club.General.ImportClubScore.csproj.GenerateResource.Cache
+C:\Dropbox\00-Work\iSchool\MyProjects\[部分]匯入社團學期成績\SourceCode\K12.Club.General.ImportClubScore\K12.Club.General.ImportClubScore\obj\Debug\K12.Club.General.ImportClubScore.dll
+C:\Dropbox\00-Work\iSchool\MyProjects\[部分]匯入社團學期成績\SourceCode\K12.Club.General.ImportClubScore\K12.Club.General.ImportClubScore\obj\Debug\K12.Club.General.ImportClubScore.pdb
